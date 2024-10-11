@@ -1,0 +1,70 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+**.vscode/
+
+#ignore node_modules from all folders
+**node_modules/
+
+#ignore package-lock.json from all folders
+**package-lock.json
+
+#ignore yarn.lock from all folders
+**yarn.lock
+
+#ignore .DS_Store from all folders
+**.DS_Store
+
+#ignore .idea from all folders
+**.idea/
+
+#ignore .vscode from all folders
+**.vscode/
+
+#ignore .classpath from all folders
+**.classpath
+
+#ignore .project from all folders
+**.project
+
+#ignore .settings from all folders
+**.settings/
+
+#ignore .factorypath from all folders
+**.factorypath
+
+#ignore .springBeans from all folders
+**.springBeans
+
+**.angular
+
+
